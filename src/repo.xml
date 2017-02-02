@@ -8,4 +8,5 @@
     <copyright>true</copyright>
     <type>application</type>
     <target>sade</target>
+    <finish>post-install.xql</finish>
 </meta>
